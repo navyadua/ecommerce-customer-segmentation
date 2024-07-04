@@ -1,5 +1,6 @@
 # E-Commerce Customer Segmentation 👨‍💼📊
-
+![ecommerce-customer-segmentation](https://socialify.git.ci/navyadua/ecommerce-customer-segmentation/image?language=1&name=1&owner=1&theme=Light)
+![](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) ![](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)  ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ## Introduction 🚀
 
 In this project, we aim to analyze and segment customers of an e-commerce company using the RFM (Recency, Frequency, Monetary) approach. This segmentation enables the company to enhance their marketing strategies by identifying high-value customers and optimizing retention and acquisition efforts.
